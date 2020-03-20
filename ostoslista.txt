@@ -8,3 +8,6 @@ granaattiomena
 mustapippuri
 lehtikaali
 punajuuri
+persilja
+basilika
+tilli
