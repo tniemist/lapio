@@ -1,1 +1,5 @@
-Terveisiä kotikoneelta...
+
+tämä on lapion toinen osa
+Testaillaan... 
+Tadaa ! 
+Terveisiä GitHubista ja kotikoneelta! 
