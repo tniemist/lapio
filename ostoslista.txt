@@ -13,3 +13,4 @@ basilika
 tilli
 valkosipuli
 romanescokukkakaali
+viinirypäleet
